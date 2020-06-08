@@ -1,11 +1,11 @@
 {
-  "title": "Maths",
+  "title": "Advertisement",
   "welcome": "<b>Hello!</b><br/>This is a quiz about advertisement. It contains {length} questions. Click the button below!",
   "end": "<b>This is the end!</b><br/>You got {points_i} {points_str} in {timer} time.",
   "play": "Play!",
   "try_again": "Try again!",
   "counter": "{title} - question {question_i}/{length}",
-  "author": "Nircek",
+  "author": "Nircek, Monika 452",
   "points_str_list": [
     "-->points",
     "^1$-->point"
@@ -27,7 +27,7 @@
     }, {
       "question": "What are subliminal messages?",
       "img": null,
-      "answers": ["Words said in a crowd or short texts in videos", "Little pieces of informations repeated many times", "Little thing that has a meaning eg. velvet", "placing products in the backgroud"]
+      "answers": ["words said in a crowd or short texts in videos", "little pieces of informations repeated many times", "little thing that has a meaning eg. velvet", "placing products in the backgroud"]
     }, {
       "question": "Doed an advertisement have an influence on our subconcious?",
       "img": null,
