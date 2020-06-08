@@ -1,7 +1,7 @@
 {
   "title": "Advertisement",
-  "welcome": "<b>Hello!</b><br/>This is a quiz about advertisement. It contains {length} questions. Click the button below!",
-  "end": "<b>This is the end!</b><br/>You got {points_i} {points_str} in {timer} time.",
+  "welcome": "<b>Hello!</b><br/><br/>This is a quiz about advertisement. It contains {length} questions. Click the button below!",
+  "end": "<b>This is the end!</b><br/><br/>You got {points_i} {points_str} in {timer} time.",
   "play": "Play!",
   "try_again": "Try again!",
   "counter": "{title} - question {question_i}/{length}",
