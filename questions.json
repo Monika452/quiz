@@ -1,6 +1,6 @@
 {
   "title": "Maths",
-  "welcome": "<b>Hello!</b><br/>This is a quiz about maths. It contains {length} questions. Click the button below!",
+  "welcome": "<b>Hello!</b><br/>This is a quiz about advertisement. It contains {length} questions. Click the button below!",
   "end": "<b>This is the end!</b><br/>You got {points_i} {points_str} in {timer} time.",
   "play": "Play!",
   "try_again": "Try again!",
@@ -13,14 +13,34 @@
   "points": "{points_i} {points_str}",
   "questions": [
     {
-      "question": "2+2=?",
+      "question": "How many advertisements do we see every day?",
       "img": null,
-      "answers": ["4", "3", "5", "2"]
+      "answers": ["20 thousand", "5 hundred", "3 bilions", "70"]
+    }, {
+      "question": "When the first advertisement with milka purple cow come out?",
+      "img": null,
+      "answers": ["1973", "1961", "1998", "2002"]
+    }, {
+      "question": "How many children draw a purple cow in the competition?",
+      "img": null,
+      "answers": ["13 thousand", "40 thousand", "900 hundred", "9 thousand"]
+    }, {
+      "question": "What are subliminal messages?",
+      "img": null,
+      "answers": ["Words said in a crowd or short texts in videos", "Little pieces of informations repeated many times", "Little thing that has a meaning eg. velvet", "placing products in the backgroud"]
+    }, {
+      "question": "Doed an advertisement have an influence on our subconcious?",
+      "img": null,
+      "answers": ["yes", "no", "different sources give different answers", "we can't check it"]
+    }, {
+      "question": "Which of the following is not an argument for small impact of advertisement?",
+      "img": null,
+      "answers": ["person need to be tired", "it affects only primary needs", "it affect us only for short period of time", "it depends on a person attributes"]
     },
     {
-      "question": "2*2=?",
-      "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg",
-      "answers": ["4", "16", "7", "6"]
+      "question": "How much did Coca-cola spend on advertisement in 2016?",
+      "img": null,
+      "answers": ["4 bilions dollars", "3 bilions dollars", "2.5 bilions dollars", "3.5 bilions dollars"]
     }
   ]
 }
