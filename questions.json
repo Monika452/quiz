@@ -1,6 +1,6 @@
 {
   "title": "Advertisement",
-  "welcome": "<b>Hello!</b><br/><br/>This is a quiz about advertisement. It contains {length} questions. Click the button below!",
+  "welcome": "<b>Hello!</b><br/><br/>This is a quiz about advertising. It contains {length} questions. Click the button below!",
   "end": "<b>Congratulations!</b><br/><br/>You got {points_i} {points_str} in {timer} time.",
   "play": "Play!",
   "try_again": "Try again!",
@@ -15,32 +15,32 @@
     {
       "question": "How many advertisements do we see every day?",
       "img": null,
-      "answers": ["20 thousand", "5 hundred", "3 bilions", "70"]
+      "answers": ["20 thousand", "500", "3 bilion", "70"]
     }, {
-      "question": "When the first advertisement with milka purple cow come out?",
+      "question": "When did the first advertisement with the Milka purple cow come out?",
       "img": null,
       "answers": ["1973", "1961", "1998", "2002"]
     }, {
-      "question": "How many children draw a purple cow in the competition?",
+      "question": "How many children drew a purple cow in the competition?",
       "img": null,
-      "answers": ["13 thousand", "40 thousand", "900 hundred", "9 thousand"]
+      "answers": ["13 thousand", "40 thousand", "900", "9 thousand"]
     }, {
       "question": "What are subliminal messages?",
       "img": null,
-      "answers": ["words said in a crowd or short texts in videos", "little pieces of informations repeated many times", "little thing that has a meaning eg. velvet", "placing products in the backgroud"]
+      "answers": ["words spoken in a crowd or short texts in videos", "little pieces of informations repeated many times", "little thing that has a meaning eg. velvet", "products placed in the backgroud"]
     }, {
-      "question": "Doed an advertisement have an influence on our subconcious?",
+      "question": "Does an advertisement have an influence on our subconcious?",
       "img": null,
-      "answers": ["yes", "no", "different sources give different answers", "we can't check it"]
+      "answers": ["yes", "no", "different sources give different answers", "this can't be proven"]
     }, {
-      "question": "Which of the following is not an argument for small impact of advertisement?",
+      "question": "Which of the following is NOT an argument confirming that advertisements have a small influence on our subconscious?",
       "img": null,
-      "answers": ["person need to be tired", "it affects only primary needs", "it affect us only for short period of time", "it depends on a person attributes"]
+      "answers": ["person needs to be tired", "it affects only primary needs", "it affects us only for short period of time", "it depends on a person's attributes"]
     },
     {
-      "question": "How much did Coca-cola spend on advertisement in 2016?",
+      "question": "How much did Coca-cola spend on advertising in 2016?",
       "img": null,
-      "answers": ["4 bilions dollars", "3 bilions dollars", "2.5 bilions dollars", "3.5 bilions dollars"]
+      "answers": ["4 bilion dollars", "3 bilion dollars", "2.5 bilion dollars", "3.5 bilion dollars"]
     }
   ]
 }
