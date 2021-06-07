@@ -1,6 +1,6 @@
 {
-  "title": "Advertisement",
-  "welcome": "<b>Hello!</b><br/><br/>This is a quiz about advertising. It contains {length} questions. Click the button below!",
+  "title": "Anne of Green Gables",
+  "welcome": "<b>Hello!</b><br/><br/>This is a quiz about Anne of Green Gables. It contains {length} questions. Click the button below!",
   "end": "<b>Congratulations!</b><br/><br/>You got {points_i} {points_str} in {timer} time.",
   "play": "Play!",
   "try_again": "Try again!",
@@ -13,34 +13,29 @@
   "points": "{points_i} {points_str}",
   "questions": [
     {
-      "question": "How many advertisements do we see every day?",
+      "question": "What is the name of Anne's best friend?",
       "img": null,
-      "answers": ["20 thousand", "500", "3 bilion", "70"]
+      "answers": ["Diana", "Gilbert", "Marilla", "Matthew"]
     }, {
-      "question": "When did the first advertisement with the Milka purple cow come out?",
+      "question": "Where is Avonlea?",
       "img": null,
-      "answers": ["1973", "1961", "1998", "2002"]
+      "answers": ["in Canada", "in the USA", "in Scotland", "in Ireland"]
     }, {
-      "question": "How many children drew a purple cow in the competition?",
+      "question": "When was Lucy Maud Montgomery born?",
       "img": null,
-      "answers": ["13 thousand", "40 thousand", "900", "9 thousand"]
+      "answers": ["1874", "1856", "1905", "1865"]
     }, {
-      "question": "What are subliminal messages?",
+      "question": "Miss Stacy change a lot in school. Which of the following is not a part of her teaching method?",
       "img": null,
-      "answers": ["words spoken in a crowd or short texts in videos", "little pieces of informations repeated many times", "little thing that has a meaning eg. velvet", "products placed in the backgroud"]
+      "answers": ["allowing girls and boys to sit together", "doing physical exercises before and after lessons", "allowing students to do recitations every week", "spending some lessons outdoors"]
     }, {
-      "question": "Does an advertisement have an influence on our subconcious?",
+      "question": "Who is not a kindered spirit?",
       "img": null,
-      "answers": ["yes", "no", "different sources give different answers", "this can't be proven"]
+      "answers": ["Mr Phillips", "Mrs Allan", "Miss Stacy", "Matthew"]
     }, {
-      "question": "Which of the following is NOT an argument confirming that advertisements have a small influence on our subconscious?",
+      "question": "Was Anne a good student?",
       "img": null,
-      "answers": ["person needs to be tired", "it affects only primary needs", "it affects us only for short period of time", "it depends on a person's attributes"]
-    },
-    {
-      "question": "How much did Coca-cola spend on advertising in 2016?",
-      "img": null,
-      "answers": ["4 bilion dollars", "3 bilion dollars", "2.5 bilion dollars", "3.5 bilion dollars"]
+      "answers": ["Yes, she has one of the best results on island", "No, she had problems with finishing primary school", "She was just an average student", "We don't know that"]
     }
   ]
 }
